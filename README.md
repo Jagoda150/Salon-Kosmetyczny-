@@ -1,2 +1,4 @@
-# Salon-Kosmetyczny-
-A no salon kosmetyczny
+Strona salonu kosmetycznego dla pięknych Kobiet stworzona przez
+
+Maja Porzycka
+21296
